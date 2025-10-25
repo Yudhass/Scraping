@@ -1,0 +1,358 @@
+2025-09-05 12:41:44,415 - INFO - ✅ Chrome WebDriver initialized
+2025-09-05 12:41:44,419 - INFO - 🔧 Scraping method: Selenium WebDriver
+2025-09-05 12:41:44,424 - INFO - 🚀 Starting hybrid crawling of https://admin.pixelstrap.net/mofi/template
+2025-09-05 12:41:44,426 - INFO - 🔧 Method: Selenium WebDriver
+2025-09-05 12:41:44,429 - INFO - 📁 Output: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/hybrid_download
+2025-09-05 12:41:44,430 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/
+2025-09-05 12:41:56,906 - INFO - 💾 Saved: hybrid_download/mofi_template.html
+2025-09-05 12:41:57,031 - INFO - 📦 Found 96 assets to download
+2025-09-05 12:41:57,033 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/font-awesome.css
+2025-09-05 12:41:57,743 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/font-awesome.css
+2025-09-05 12:41:57,744 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/icofont.css
+2025-09-05 12:41:57,788 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/icofont.css
+2025-09-05 12:41:57,789 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/themify.css
+2025-09-05 12:41:57,828 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/themify.css
+2025-09-05 12:41:57,829 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/flag-icon.css
+2025-09-05 12:41:57,862 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/flag-icon.css
+2025-09-05 12:41:57,863 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/feather-icon.css
+2025-09-05 12:41:57,905 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/feather-icon.css
+2025-09-05 12:41:57,908 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/slick.css
+2025-09-05 12:41:57,955 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/slick.css
+2025-09-05 12:41:57,955 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/slick-theme.css
+2025-09-05 12:41:58,009 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/slick-theme.css
+2025-09-05 12:41:58,013 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/scrollbar.css
+2025-09-05 12:41:58,068 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/scrollbar.css
+2025-09-05 12:41:58,075 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/animate.css
+2025-09-05 12:41:58,134 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/animate.css
+2025-09-05 12:41:58,139 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/datatables.css
+2025-09-05 12:41:58,179 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/datatables.css
+2025-09-05 12:41:58,179 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/date-range-picker/flatpickr.min.css
+2025-09-05 12:41:58,219 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/date-range-picker/flatpickr.min.css
+2025-09-05 12:41:58,219 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/bootstrap.css
+2025-09-05 12:41:58,286 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/bootstrap.css
+2025-09-05 12:41:58,292 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/style.css
+2025-09-05 12:41:58,409 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/style.css
+2025-09-05 12:41:58,412 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/color-1.css
+2025-09-05 12:41:58,450 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/color-1.css
+2025-09-05 12:41:58,451 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/responsive.css
+2025-09-05 12:41:58,501 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/responsive.css
+2025-09-05 12:41:58,504 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/jquery.min.js
+2025-09-05 12:41:58,560 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/jquery.min.js
+2025-09-05 12:41:58,564 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/bootstrap/bootstrap.bundle.min.js
+2025-09-05 12:41:58,691 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/bootstrap/bootstrap.bundle.min.js
+2025-09-05 12:41:58,693 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/icons/feather-icon/feather.min.js
+2025-09-05 12:41:58,734 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/icons/feather-icon/feather.min.js
+2025-09-05 12:41:58,737 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/icons/feather-icon/feather-icon.js
+2025-09-05 12:41:58,780 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/icons/feather-icon/feather-icon.js
+2025-09-05 12:41:58,787 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/scrollbar/simplebar.js
+2025-09-05 12:41:58,853 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/scrollbar/simplebar.js
+2025-09-05 12:41:58,854 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/scrollbar/custom.js
+2025-09-05 12:41:58,896 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/scrollbar/custom.js
+2025-09-05 12:41:58,902 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/config.js
+2025-09-05 12:41:58,945 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/config.js
+2025-09-05 12:41:58,946 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/sidebar-menu.js
+2025-09-05 12:41:58,988 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/sidebar-menu.js
+2025-09-05 12:41:58,989 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/sidebar-pin.js
+2025-09-05 12:41:59,027 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/sidebar-pin.js
+2025-09-05 12:41:59,031 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/slick/slick.min.js
+2025-09-05 12:41:59,084 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/slick/slick.min.js
+2025-09-05 12:41:59,095 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/slick/slick.js
+2025-09-05 12:41:59,137 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/slick/slick.js
+2025-09-05 12:41:59,138 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/header-slick.js
+2025-09-05 12:41:59,180 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/header-slick.js
+2025-09-05 12:41:59,186 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/chart/apex-chart/apex-chart.js
+2025-09-05 12:41:59,279 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/chart/apex-chart/apex-chart.js
+2025-09-05 12:41:59,282 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/chart/apex-chart/stock-prices.js
+2025-09-05 12:41:59,330 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/chart/apex-chart/stock-prices.js
+2025-09-05 12:41:59,332 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/chart/apex-chart/moment.min.js
+2025-09-05 12:41:59,379 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/chart/apex-chart/moment.min.js
+2025-09-05 12:41:59,380 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/notify/bootstrap-notify.min.js
+2025-09-05 12:41:59,413 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/notify/bootstrap-notify.min.js
+2025-09-05 12:41:59,414 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/dashboard/default.js
+2025-09-05 12:41:59,467 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/dashboard/default.js
+2025-09-05 12:41:59,468 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/notify/index.js
+2025-09-05 12:41:59,530 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/notify/index.js
+2025-09-05 12:41:59,532 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datatable/datatables/jquery.dataTables.min.js
+2025-09-05 12:41:59,591 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datatable/datatables/jquery.dataTables.min.js
+2025-09-05 12:41:59,592 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datatable/datatables/datatable.custom.js
+2025-09-05 12:41:59,637 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datatable/datatables/datatable.custom.js
+2025-09-05 12:41:59,641 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datatable/datatables/datatable.custom1.js
+2025-09-05 12:41:59,681 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datatable/datatables/datatable.custom1.js
+2025-09-05 12:41:59,685 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datepicker/date-range-picker/moment.min.js
+2025-09-05 12:41:59,732 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datepicker/date-range-picker/moment.min.js
+2025-09-05 12:41:59,739 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datepicker/date-range-picker/datepicker-range-custom.js
+2025-09-05 12:41:59,795 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datepicker/date-range-picker/datepicker-range-custom.js
+2025-09-05 12:41:59,801 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/typeahead/handlebars.js
+2025-09-05 12:41:59,853 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/typeahead/handlebars.js
+2025-09-05 12:41:59,855 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/typeahead/typeahead.bundle.js
+2025-09-05 12:41:59,909 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/typeahead/typeahead.bundle.js
+2025-09-05 12:41:59,912 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/typeahead/typeahead.custom.js
+2025-09-05 12:41:59,955 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/typeahead/typeahead.custom.js
+2025-09-05 12:41:59,959 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/typeahead-search/handlebars.js
+2025-09-05 12:42:00,004 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/typeahead-search/handlebars.js
+2025-09-05 12:42:00,009 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/typeahead-search/typeahead-custom.js
+2025-09-05 12:42:00,162 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/typeahead-search/typeahead-custom.js
+2025-09-05 12:42:00,171 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/height-equal.js
+2025-09-05 12:42:00,229 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/height-equal.js
+2025-09-05 12:42:00,229 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/animation/wow/wow.min.js
+2025-09-05 12:42:00,287 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/animation/wow/wow.min.js
+2025-09-05 12:42:00,291 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/script.js
+2025-09-05 12:42:00,332 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/script.js
+2025-09-05 12:42:00,341 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/script1.js
+2025-09-05 12:42:00,378 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/script1.js
+2025-09-05 12:42:00,379 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/theme-customizer/customizer.js
+2025-09-05 12:42:00,438 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/theme-customizer/customizer.js
+2025-09-05 12:42:00,442 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/logo/logo.png
+2025-09-05 12:42:00,479 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/logo/logo.png
+2025-09-05 12:42:00,479 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/logo/logo_light.png
+2025-09-05 12:42:00,525 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/logo/logo_light.png
+2025-09-05 12:42:00,526 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/wallet.png
+2025-09-05 12:42:00,566 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/wallet.png
+2025-09-05 12:42:00,569 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/shield-dne.png
+2025-09-05 12:42:00,609 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/shield-dne.png
+2025-09-05 12:42:00,613 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/graph.png
+2025-09-05 12:42:00,661 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/graph.png
+2025-09-05 12:42:00,661 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/ticket-star.png
+2025-09-05 12:42:00,697 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/ticket-star.png
+2025-09-05 12:42:00,697 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-2/user/1.png
+2025-09-05 12:42:00,746 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-2/user/1.png
+2025-09-05 12:42:00,747 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-2/user/2.png
+2025-09-05 12:42:00,791 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-2/user/2.png
+2025-09-05 12:42:00,792 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-2/user/3.png
+2025-09-05 12:42:00,823 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-2/user/3.png
+2025-09-05 12:42:00,825 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/other-images/cart-img.jpg
+2025-09-05 12:42:00,855 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/other-images/cart-img.jpg
+2025-09-05 12:42:00,856 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/other-images/table-img.jpg
+2025-09-05 12:42:00,890 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/other-images/table-img.jpg
+2025-09-05 12:42:00,892 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/profile.png
+2025-09-05 12:42:00,933 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/profile.png
+2025-09-05 12:42:00,936 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/logo/logo-icon.png
+2025-09-05 12:42:00,978 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/logo/logo-icon.png
+2025-09-05 12:42:00,979 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/project/1.png
+2025-09-05 12:42:01,020 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/project/1.png
+2025-09-05 12:42:01,021 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/project/2.png
+2025-09-05 12:42:01,058 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/project/2.png
+2025-09-05 12:42:01,059 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/project/3.png
+2025-09-05 12:42:01,089 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/project/3.png
+2025-09-05 12:42:01,092 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/project/4.png
+2025-09-05 12:42:01,142 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/project/4.png
+2025-09-05 12:42:01,144 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/05.png
+2025-09-05 12:42:01,193 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/05.png
+2025-09-05 12:42:01,196 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/06.png
+2025-09-05 12:42:01,237 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/06.png
+2025-09-05 12:42:01,240 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/07.png
+2025-09-05 12:42:01,278 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/07.png
+2025-09-05 12:42:01,296 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/08.png
+2025-09-05 12:42:01,339 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/08.png
+2025-09-05 12:42:01,341 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/01.jpg
+2025-09-05 12:42:01,385 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/01.jpg
+2025-09-05 12:42:01,389 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/02.jpg
+2025-09-05 12:42:01,428 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/02.jpg
+2025-09-05 12:42:01,430 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/03.jpg
+2025-09-05 12:42:01,468 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/03.jpg
+2025-09-05 12:42:01,476 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/user/04.jpg
+2025-09-05 12:42:01,529 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/user/04.jpg
+2025-09-05 12:42:01,530 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/customers.png
+2025-09-05 12:42:01,573 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/customers.png
+2025-09-05 12:42:01,574 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/revenue.png
+2025-09-05 12:42:01,605 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/revenue.png
+2025-09-05 12:42:01,606 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/icon/profit.png
+2025-09-05 12:42:01,636 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/icon/profit.png
+2025-09-05 12:42:01,638 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/product/1.png
+2025-09-05 12:42:01,677 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/product/1.png
+2025-09-05 12:42:01,679 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/product/2.png
+2025-09-05 12:42:01,722 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/product/2.png
+2025-09-05 12:42:01,726 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/product/3.png
+2025-09-05 12:42:01,762 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/product/3.png
+2025-09-05 12:42:01,764 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/product/4.png
+2025-09-05 12:42:01,807 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/product/4.png
+2025-09-05 12:42:01,808 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/product/5.png
+2025-09-05 12:42:01,838 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/product/5.png
+2025-09-05 12:42:01,839 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/customizer/color.png
+2025-09-05 12:42:01,871 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/customizer/color.png
+2025-09-05 12:42:01,874 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/customizer/support.png
+2025-09-05 12:42:01,912 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/customizer/support.png
+2025-09-05 12:42:01,916 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/customizer/setting.png
+2025-09-05 12:42:01,999 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/customizer/setting.png
+2025-09-05 12:42:01,999 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/customizer/features.png
+2025-09-05 12:42:02,038 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/customizer/features.png
+2025-09-05 12:42:02,039 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/customizer/document.png
+2025-09-05 12:42:02,071 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/customizer/document.png
+2025-09-05 12:42:02,071 - INFO - 📥 Downloading Icon: https://admin.pixelstrap.net/mofi/assets/images/favicon.png
+2025-09-05 12:42:02,103 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/favicon.png
+2025-09-05 12:42:04,215 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:42:04,729 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/form-wizard-two.html
+2025-09-05 12:42:10,565 - INFO - 💾 Saved: hybrid_download/mofi_template_form-wizard-two.html.html
+2025-09-05 12:42:10,659 - INFO - 📦 Found 70 assets to download
+2025-09-05 12:42:10,660 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/hdfc.png
+2025-09-05 12:42:11,594 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/hdfc.png
+2025-09-05 12:42:11,598 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/Bank-of-Baroda.png
+2025-09-05 12:42:11,649 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/Bank-of-Baroda.png
+2025-09-05 12:42:11,652 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/idbi.png
+2025-09-05 12:42:11,708 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/idbi.png
+2025-09-05 12:42:11,717 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/rbl.png
+2025-09-05 12:42:11,779 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/rbl.png
+2025-09-05 12:42:11,784 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/us-bank.png
+2025-09-05 12:42:11,845 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/us-bank.png
+2025-09-05 12:42:11,846 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/axis.png
+2025-09-05 12:42:11,897 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/axis.png
+2025-09-05 12:42:11,899 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/SCB.png
+2025-09-05 12:42:11,947 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/SCB.png
+2025-09-05 12:42:11,950 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/gif/dashboard-8/successful.gif
+2025-09-05 12:42:12,058 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/gif/dashboard-8/successful.gif
+2025-09-05 12:42:13,102 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:42:13,604 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/dropzone.html
+2025-09-05 12:42:18,436 - INFO - 💾 Saved: hybrid_download/mofi_template_dropzone.html.html
+2025-09-05 12:42:18,484 - INFO - 📦 Found 64 assets to download
+2025-09-05 12:42:18,487 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/dropzone.min.css
+2025-09-05 12:42:18,945 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/dropzone.min.css
+2025-09-05 12:42:18,946 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/filepond.css
+2025-09-05 12:42:18,983 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/filepond.css
+2025-09-05 12:42:18,984 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/filepond-plugin-image-preview.css
+2025-09-05 12:42:19,027 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/filepond-plugin-image-preview.css
+2025-09-05 12:42:19,029 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/dropzone/dropzone.js
+2025-09-05 12:42:19,118 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/dropzone/dropzone.js
+2025-09-05 12:42:19,120 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/dropzone/dropzone-script.js
+2025-09-05 12:42:19,160 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/dropzone/dropzone-script.js
+2025-09-05 12:42:19,168 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/filepond/filepond-plugin-image-preview.js
+2025-09-05 12:42:19,240 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/filepond/filepond-plugin-image-preview.js
+2025-09-05 12:42:19,243 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/filepond/filepond-plugin-file-rename.js
+2025-09-05 12:42:19,285 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/filepond/filepond-plugin-file-rename.js
+2025-09-05 12:42:19,286 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/filepond/filepond-plugin-image-transform.js
+2025-09-05 12:42:19,338 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/filepond/filepond-plugin-image-transform.js
+2025-09-05 12:42:19,343 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/filepond/filepond.js
+2025-09-05 12:42:19,434 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/filepond/filepond.js
+2025-09-05 12:42:19,438 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/filepond/custom-filepond.js
+2025-09-05 12:42:19,483 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/filepond/custom-filepond.js
+2025-09-05 12:42:19,487 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/tooltip-init.js
+2025-09-05 12:42:19,527 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/tooltip-init.js
+2025-09-05 12:42:21,166 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:42:21,167 - INFO - 📊 Progress: 3 pages, 106 assets, 186 pending URLs
+2025-09-05 12:42:21,670 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/login-sa-validation.html
+2025-09-05 12:42:24,683 - INFO - 💾 Saved: hybrid_download/mofi_template_login-sa-validation.html.html
+2025-09-05 12:42:24,690 - INFO - 📦 Found 23 assets to download
+2025-09-05 12:42:24,691 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/sweetalert2.css
+2025-09-05 12:42:25,502 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/sweetalert2.css
+2025-09-05 12:42:25,503 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/sweet-alert/sweetalert.min.js
+2025-09-05 12:42:25,579 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/sweet-alert/sweetalert.min.js
+2025-09-05 12:42:25,582 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/logo/logo_dark.png
+2025-09-05 12:42:25,688 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/logo/logo_dark.png
+2025-09-05 12:42:25,726 - INFO - 🔗 Found 3 unique links
+2025-09-05 12:42:26,228 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/cart.html
+2025-09-05 12:42:30,458 - INFO - 💾 Saved: hybrid_download/mofi_template_cart.html.html
+2025-09-05 12:42:30,511 - INFO - 📦 Found 58 assets to download
+2025-09-05 12:42:30,514 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/touchspin/vendors.min.js
+2025-09-05 12:42:31,572 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/touchspin/vendors.min.js
+2025-09-05 12:42:31,573 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/touchspin/touchspin.js
+2025-09-05 12:42:31,609 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/touchspin/touchspin.js
+2025-09-05 12:42:31,611 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/touchspin/input-groups.min.js
+2025-09-05 12:42:31,645 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/touchspin/input-groups.min.js
+2025-09-05 12:42:31,646 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/product/1.png
+2025-09-05 12:42:31,730 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/product/1.png
+2025-09-05 12:42:31,732 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/product/13.png
+2025-09-05 12:42:31,853 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/product/13.png
+2025-09-05 12:42:31,854 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/product/4.png
+2025-09-05 12:42:31,899 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/product/4.png
+2025-09-05 12:42:32,604 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:42:33,106 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/login-bs-tt-validation.html
+2025-09-05 12:42:36,296 - INFO - 💾 Saved: hybrid_download/mofi_template_login-bs-tt-validation.html.html
+2025-09-05 12:42:36,302 - INFO - 📦 Found 23 assets to download
+2025-09-05 12:42:36,303 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/login/3.jpg
+2025-09-05 12:42:37,069 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/login/3.jpg
+2025-09-05 12:42:37,090 - INFO - 🔗 Found 3 unique links
+2025-09-05 12:42:37,091 - INFO - 📊 Progress: 6 pages, 116 assets, 183 pending URLs
+2025-09-05 12:42:37,592 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/form-wizard.html
+2025-09-05 12:42:42,040 - INFO - 💾 Saved: hybrid_download/mofi_template_form-wizard.html.html
+2025-09-05 12:42:42,099 - INFO - 📦 Found 64 assets to download
+2025-09-05 12:42:42,100 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/form-wizard/form-wizard.js
+2025-09-05 12:42:42,794 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/form-wizard/form-wizard.js
+2025-09-05 12:42:42,797 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/form-wizard/image-upload.js
+2025-09-05 12:42:42,837 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/form-wizard/image-upload.js
+2025-09-05 12:42:42,838 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/checkout/paypal.png
+2025-09-05 12:42:42,876 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/checkout/paypal.png
+2025-09-05 12:42:42,881 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/credit-card.png
+2025-09-05 12:42:43,021 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/credit-card.png
+2025-09-05 12:42:43,024 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/delivery.png
+2025-09-05 12:42:43,068 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/delivery.png
+2025-09-05 12:42:43,071 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/email-template/4.png
+2025-09-05 12:42:43,114 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/email-template/4.png
+2025-09-05 12:42:43,114 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/product/3.png
+2025-09-05 12:42:43,242 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/product/3.png
+2025-09-05 12:42:43,243 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-2/product/2.png
+2025-09-05 12:42:43,287 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-2/product/2.png
+2025-09-05 12:42:44,196 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:42:44,700 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/two-factor.html
+2025-09-05 12:42:48,447 - INFO - 💾 Saved: hybrid_download/mofi_template_two-factor.html.html
+2025-09-05 12:42:48,515 - INFO - 📦 Found 58 assets to download
+2025-09-05 12:42:48,515 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/form-wizard/verification.js
+2025-09-05 12:42:49,142 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/form-wizard/verification.js
+2025-09-05 12:42:49,146 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/qr-scan.png
+2025-09-05 12:42:49,262 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/qr-scan.png
+2025-09-05 12:42:49,265 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/qr-code.png
+2025-09-05 12:42:49,317 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/qr-code.png
+2025-09-05 12:42:49,319 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/email.png
+2025-09-05 12:42:49,497 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/email.png
+2025-09-05 12:42:49,510 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/forms/authenticate.png
+2025-09-05 12:42:49,606 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/forms/authenticate.png
+2025-09-05 12:42:50,976 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:42:51,484 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/general-widget.html
+2025-09-05 12:42:58,455 - INFO - 💾 Saved: hybrid_download/mofi_template_general-widget.html.html
+2025-09-05 12:42:58,683 - INFO - 📦 Found 77 assets to download
+2025-09-05 12:42:58,685 - INFO - 📥 Downloading CSS: https://admin.pixelstrap.net/mofi/assets/css/vendors/date-picker.css
+2025-09-05 12:43:00,148 - INFO - ✅ Saved: hybrid_download/mofi/assets/css/vendors/date-picker.css
+2025-09-05 12:43:00,159 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datepicker/date-picker/datepicker.js
+2025-09-05 12:43:00,263 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datepicker/date-picker/datepicker.js
+2025-09-05 12:43:00,272 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datepicker/date-picker/datepicker.en.js
+2025-09-05 12:43:00,330 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datepicker/date-picker/datepicker.en.js
+2025-09-05 12:43:00,340 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datepicker/date-picker/datepicker.custom.js
+2025-09-05 12:43:00,392 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datepicker/date-picker/datepicker.custom.js
+2025-09-05 12:43:00,398 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/general-widget.js
+2025-09-05 12:43:00,478 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/general-widget.js
+2025-09-05 12:43:00,478 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-3/icon/coin1.png
+2025-09-05 12:43:00,545 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-3/icon/coin1.png
+2025-09-05 12:43:00,550 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-3/icon/shopping1.png
+2025-09-05 12:43:00,615 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-3/icon/shopping1.png
+2025-09-05 12:43:00,632 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-3/icon/sent1.png
+2025-09-05 12:43:00,708 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-3/icon/sent1.png
+2025-09-05 12:43:00,718 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-3/icon/revenue1.png
+2025-09-05 12:43:00,791 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-3/icon/revenue1.png
+2025-09-05 12:43:00,794 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-2/user/16.png
+2025-09-05 12:43:00,857 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-2/user/16.png
+2025-09-05 12:43:00,859 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/social/1.png
+2025-09-05 12:43:00,917 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/social/1.png
+2025-09-05 12:43:00,922 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/social/3.png
+2025-09-05 12:43:00,982 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/social/3.png
+2025-09-05 12:43:00,994 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/social/2.png
+2025-09-05 12:43:01,098 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/social/2.png
+2025-09-05 12:43:01,108 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard/social/4.png
+2025-09-05 12:43:01,196 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard/social/4.png
+2025-09-05 12:43:01,201 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-4/icon/student.png
+2025-09-05 12:43:01,262 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-4/icon/student.png
+2025-09-05 12:43:01,263 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-4/icon/teacher.png
+2025-09-05 12:43:01,314 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-4/icon/teacher.png
+2025-09-05 12:43:01,325 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-4/icon/calendar.png
+2025-09-05 12:43:01,397 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-4/icon/calendar.png
+2025-09-05 12:43:01,412 - INFO - 📥 Downloading Image: https://admin.pixelstrap.net/mofi/assets/images/dashboard-4/icon/invoice.png
+2025-09-05 12:43:01,478 - INFO - ✅ Saved: hybrid_download/mofi/assets/images/dashboard-4/icon/invoice.png
+2025-09-05 12:43:05,027 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:43:05,041 - INFO - 📊 Progress: 9 pages, 147 assets, 180 pending URLs
+2025-09-05 12:43:05,550 - INFO - 🌐 [Selenium] Visiting: https://admin.pixelstrap.net/mofi/template/datatable-advance.html
+2025-09-05 12:43:13,074 - INFO - 💾 Saved: hybrid_download/mofi_template_datatable-advance.html.html
+2025-09-05 12:43:13,266 - INFO - 📦 Found 57 assets to download
+2025-09-05 12:43:13,270 - INFO - 📥 Downloading JavaScript: https://admin.pixelstrap.net/mofi/assets/js/datatable/datatable_advance.js
+2025-09-05 12:43:13,802 - INFO - ✅ Saved: hybrid_download/mofi/assets/js/datatable/datatable_advance.js
+2025-09-05 12:43:15,360 - INFO - 🔗 Found 188 unique links
+2025-09-05 12:43:16,155 - INFO - 📋 Report saved: hybrid_download/hybrid_crawling_report.json
+2025-09-05 12:43:16,159 - INFO - 
+============================================================
+2025-09-05 12:43:16,160 - INFO - 🎉 HYBRID CRAWLING COMPLETED!
+2025-09-05 12:43:16,162 - INFO - ============================================================
+2025-09-05 12:43:16,168 - INFO - 🔧 Method Used: Selenium WebDriver
+2025-09-05 12:43:16,169 - INFO - 🌐 Pages Visited: 10
+2025-09-05 12:43:16,171 - INFO - 💾 HTML Files: 10
+2025-09-05 12:43:16,177 - INFO - 📦 Assets Downloaded: 148
+2025-09-05 12:43:16,178 - INFO - 🔗 Links Found: 1510
+2025-09-05 12:43:16,178 - INFO - ❌ Errors: 0
+2025-09-05 12:43:16,187 - INFO - 📁 Output: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/hybrid_download
+2025-09-05 12:43:16,187 - INFO - ✨ JavaScript-rendered pages captured!
+2025-09-05 12:43:16,188 - INFO - ============================================================

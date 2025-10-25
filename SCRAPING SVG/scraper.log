@@ -1,0 +1,712 @@
+2025-09-05 12:16:49,226 - INFO - Starting scraping of https://admin.pixelstrap.net/mofi/template
+2025-09-05 12:16:49,226 - INFO - Download directory: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/mofi_template_downloaded
+2025-09-05 12:16:49,230 - INFO - Downloading: https://admin.pixelstrap.net/mofi/template
+2025-09-05 12:16:50,178 - INFO - ✓ Downloaded: mofi_template_downloaded/mofi/template.html
+2025-09-05 12:16:50,694 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/favicon.png
+2025-09-05 12:16:50,707 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/icofont.css
+2025-09-05 12:16:50,708 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/font-awesome.css
+2025-09-05 12:16:50,717 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/favicon.png
+2025-09-05 12:16:50,747 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/favicon.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/favicon.png
+2025-09-05 12:16:50,768 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/themify.css
+2025-09-05 12:16:50,796 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:16:50,888 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:16:51,243 - INFO - Queue status - HTML: 0, Resources: 0, Downloaded: 1
+2025-09-05 12:16:51,408 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/themify.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/themify.css
+2025-09-05 12:16:51,425 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/flag-icon.css
+2025-09-05 12:16:51,941 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/font-awesome.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/font-awesome.css
+2025-09-05 12:16:51,953 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/feather-icon.css
+2025-09-05 12:16:51,995 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:16:52,006 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:16:52,058 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/icofont.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/icofont.css
+2025-09-05 12:16:52,068 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/slick.css
+2025-09-05 12:16:52,081 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:16:52,101 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:52,264 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/flag-icon.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/flag-icon.css
+2025-09-05 12:16:52,286 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/slick-theme.css
+2025-09-05 12:16:53,055 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:16:53,082 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:53,155 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/feather-icon.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/feather-icon.css
+2025-09-05 12:16:53,181 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/scrollbar.css
+2025-09-05 12:16:53,292 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:53,313 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:53,344 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/slick.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/slick.css
+2025-09-05 12:16:53,358 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/animate.css
+2025-09-05 12:16:53,517 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/slick-theme.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/slick-theme.css
+2025-09-05 12:16:53,544 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/datatables.css
+2025-09-05 12:16:54,455 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/scrollbar.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/scrollbar.css
+2025-09-05 12:16:54,485 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/date-range-picker/flatpickr.min.css
+2025-09-05 12:16:54,881 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:54,894 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:54,908 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/animate.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/animate.css
+2025-09-05 12:16:54,954 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/vendors/bootstrap.css
+2025-09-05 12:16:55,064 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:55,085 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/datatables.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/datatables.css
+2025-09-05 12:16:55,092 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:55,108 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/style.css
+2025-09-05 12:16:55,199 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/favicon.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/favicon.png
+2025-09-05 12:16:55,226 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/color-1.css
+2025-09-05 12:16:56,161 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/date-range-picker/flatpickr.min.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/date-range-picker/flatpickr.min.css
+2025-09-05 12:16:56,187 - INFO - Downloading: https://admin.pixelstrap.net/assets/css/responsive.css
+2025-09-05 12:16:56,255 - INFO - Queue status - HTML: 229, Resources: 79, Downloaded: 1
+2025-09-05 12:16:56,328 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:56,361 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/vendors/bootstrap.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/vendors/bootstrap.css
+2025-09-05 12:16:56,362 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:56,386 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/jquery.min.js
+2025-09-05 12:16:56,429 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:56,441 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:56,460 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/style.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/style.css
+2025-09-05 12:16:56,477 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/bootstrap/bootstrap.bundle.min.js
+2025-09-05 12:16:56,807 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/color-1.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/color-1.css
+2025-09-05 12:16:56,816 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/icons/feather-icon/feather.min.js
+2025-09-05 12:16:57,409 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/css/responsive.css: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/css/responsive.css
+2025-09-05 12:16:57,429 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/icons/feather-icon/feather-icon.js
+2025-09-05 12:16:57,609 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:57,628 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/jquery.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/jquery.min.js
+2025-09-05 12:16:57,645 - INFO - Downloading: https://admin.pixelstrap.net/mofi/letter-box.html
+2025-09-05 12:16:57,648 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/scrollbar/simplebar.js
+2025-09-05 12:16:57,660 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/bootstrap/bootstrap.bundle.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/bootstrap/bootstrap.bundle.min.js
+2025-09-05 12:16:57,678 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/scrollbar/custom.js
+2025-09-05 12:16:58,040 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/icons/feather-icon/feather.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/icons/feather-icon/feather.min.js
+2025-09-05 12:16:58,053 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/config.js
+2025-09-05 12:16:58,197 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:58,224 - INFO - Downloading: https://admin.pixelstrap.net/mofi/cart.html
+2025-09-05 12:16:58,700 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/icons/feather-icon/feather-icon.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/icons/feather-icon/feather-icon.js
+2025-09-05 12:16:58,731 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/sidebar-menu.js
+2025-09-05 12:16:59,102 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/scrollbar/custom.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/scrollbar/custom.js
+2025-09-05 12:16:59,116 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/scrollbar/simplebar.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/scrollbar/simplebar.js
+2025-09-05 12:16:59,122 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/sidebar-pin.js
+2025-09-05 12:16:59,154 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/slick/slick.min.js
+2025-09-05 12:16:59,178 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/letter-box.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/letter-box.html
+2025-09-05 12:16:59,196 - INFO - Downloading: https://admin.pixelstrap.net/mofi/checkout.html
+2025-09-05 12:16:59,304 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/cart.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/cart.html
+2025-09-05 12:16:59,309 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/config.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/config.js
+2025-09-05 12:16:59,342 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/slick/slick.js
+2025-09-05 12:16:59,365 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:16:59,884 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/sidebar-menu.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/sidebar-menu.js
+2025-09-05 12:16:59,911 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/header-slick.js
+2025-09-05 12:17:00,146 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/sidebar-pin.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/sidebar-pin.js
+2025-09-05 12:17:00,161 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/chart/apex-chart/apex-chart.js
+2025-09-05 12:17:00,230 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/slick/slick.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/slick/slick.min.js
+2025-09-05 12:17:00,253 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/chart/apex-chart/stock-prices.js
+2025-09-05 12:17:00,319 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/slick/slick.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/slick/slick.js
+2025-09-05 12:17:00,333 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/chart/apex-chart/moment.min.js
+2025-09-05 12:17:00,438 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:17:00,446 - INFO - Downloading: https://admin.pixelstrap.net/mofi/letter-box.html
+2025-09-05 12:17:00,814 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/checkout.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/checkout.html
+2025-09-05 12:17:00,843 - INFO - Downloading: https://admin.pixelstrap.net/mofi/task.html
+2025-09-05 12:17:00,872 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/header-slick.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/header-slick.js
+2025-09-05 12:17:00,895 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/notify/bootstrap-notify.min.js
+2025-09-05 12:17:01,261 - INFO - Queue status - HTML: 221, Resources: 63, Downloaded: 1
+2025-09-05 12:17:01,929 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/chart/apex-chart/apex-chart.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/chart/apex-chart/apex-chart.js
+2025-09-05 12:17:01,968 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/dashboard/default.js
+2025-09-05 12:17:01,996 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/letter-box.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/letter-box.html
+2025-09-05 12:17:02,018 - INFO - Downloading: https://admin.pixelstrap.net/mofi/edit-profile.html
+2025-09-05 12:17:02,299 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/chart/apex-chart/stock-prices.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/chart/apex-chart/stock-prices.js
+2025-09-05 12:17:02,324 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/notify/index.js
+2025-09-05 12:17:02,468 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/chart/apex-chart/moment.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/chart/apex-chart/moment.min.js
+2025-09-05 12:17:02,498 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/datatable/datatables/jquery.dataTables.min.js
+2025-09-05 12:17:02,565 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/task.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/task.html
+2025-09-05 12:17:02,590 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login.html
+2025-09-05 12:17:02,592 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/notify/bootstrap-notify.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/notify/bootstrap-notify.min.js
+2025-09-05 12:17:02,615 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/datatable/datatables/datatable.custom.js
+2025-09-05 12:17:03,336 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/dashboard/default.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/dashboard/default.js
+2025-09-05 12:17:03,362 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/datatable/datatables/datatable.custom1.js
+2025-09-05 12:17:03,608 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/notify/index.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/notify/index.js
+2025-09-05 12:17:03,636 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/datepicker/date-range-picker/moment.min.js
+2025-09-05 12:17:03,947 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/datatable/datatables/datatable.custom.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/datatable/datatables/datatable.custom.js
+2025-09-05 12:17:04,007 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/datepicker/date-range-picker/datepicker-range-custom.js
+2025-09-05 12:17:04,194 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/datatable/datatables/jquery.dataTables.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/datatable/datatables/jquery.dataTables.min.js
+2025-09-05 12:17:04,241 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/typeahead/handlebars.js
+2025-09-05 12:17:04,475 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/edit-profile.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/edit-profile.html
+2025-09-05 12:17:04,534 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:05,433 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/datatable/datatables/datatable.custom1.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/datatable/datatables/datatable.custom1.js
+2025-09-05 12:17:05,486 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/typeahead/typeahead.bundle.js
+2025-09-05 12:17:06,096 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/datepicker/date-range-picker/moment.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/datepicker/date-range-picker/moment.min.js
+2025-09-05 12:17:06,161 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/typeahead/typeahead.custom.js
+2025-09-05 12:17:06,274 - INFO - Queue status - HTML: 218, Resources: 53, Downloaded: 1
+2025-09-05 12:17:06,499 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/datepicker/date-range-picker/datepicker-range-custom.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/datepicker/date-range-picker/datepicker-range-custom.js
+2025-09-05 12:17:06,521 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/typeahead-search/handlebars.js
+2025-09-05 12:17:06,581 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/typeahead/handlebars.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/typeahead/handlebars.js
+2025-09-05 12:17:06,598 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/typeahead-search/typeahead-custom.js
+2025-09-05 12:17:06,666 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:06,667 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login.html
+2025-09-05 12:17:06,684 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:06,711 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:06,783 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/typeahead/typeahead.bundle.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/typeahead/typeahead.bundle.js
+2025-09-05 12:17:06,801 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/height-equal.js
+2025-09-05 12:17:07,505 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/typeahead-search/handlebars.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/typeahead-search/handlebars.js
+2025-09-05 12:17:07,518 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/animation/wow/wow.min.js
+2025-09-05 12:17:07,576 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/typeahead/typeahead.custom.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/typeahead/typeahead.custom.js
+2025-09-05 12:17:07,593 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/script.js
+2025-09-05 12:17:07,711 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/typeahead-search/typeahead-custom.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/typeahead-search/typeahead-custom.js
+2025-09-05 12:17:07,723 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/script1.js
+2025-09-05 12:17:07,796 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:07,824 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:07,836 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:07,847 - INFO - Downloading: https://admin.pixelstrap.net/mofi/dashboard-02.html
+2025-09-05 12:17:07,914 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/height-equal.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/height-equal.js
+2025-09-05 12:17:07,934 - INFO - Downloading: https://admin.pixelstrap.net/assets/js/theme-customizer/customizer.js
+2025-09-05 12:17:08,667 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/animation/wow/wow.min.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/animation/wow/wow.min.js
+2025-09-05 12:17:08,686 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/logo/logo.png
+2025-09-05 12:17:08,757 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/script.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/script.js
+2025-09-05 12:17:08,784 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/logo/logo_light.png
+2025-09-05 12:17:08,872 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/script1.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/script1.js
+2025-09-05 12:17:08,892 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/logo/logo.png
+2025-09-05 12:17:08,902 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:17:08,927 - INFO - Downloading: https://admin.pixelstrap.net/mofi/dashboard-03.html
+2025-09-05 12:17:08,982 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/dashboard-02.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/dashboard-02.html
+2025-09-05 12:17:08,999 - INFO - Downloading: https://admin.pixelstrap.net/mofi/dashboard-04.html
+2025-09-05 12:17:09,051 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/js/theme-customizer/customizer.js: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/js/theme-customizer/customizer.js
+2025-09-05 12:17:09,068 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/wallet.png
+2025-09-05 12:17:09,807 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/logo/logo_light.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/logo/logo_light.png
+2025-09-05 12:17:09,830 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/shield-dne.png
+2025-09-05 12:17:10,077 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/dashboard-04.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/dashboard-04.html
+2025-09-05 12:17:10,093 - INFO - Downloading: https://admin.pixelstrap.net/mofi/general-widget.html
+2025-09-05 12:17:10,142 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/logo/logo.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/logo/logo.png
+2025-09-05 12:17:10,166 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/graph.png
+2025-09-05 12:17:10,211 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/logo/logo.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/logo/logo.png
+2025-09-05 12:17:10,234 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/ticket-star.png
+2025-09-05 12:17:10,260 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/wallet.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/wallet.png
+2025-09-05 12:17:10,288 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard-2/user/1.png
+2025-09-05 12:17:10,448 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/dashboard-03.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/dashboard-03.html
+2025-09-05 12:17:10,481 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-widget.html
+2025-09-05 12:17:11,291 - INFO - Queue status - HTML: 210, Resources: 38, Downloaded: 1
+2025-09-05 12:17:11,369 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/shield-dne.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/shield-dne.png
+2025-09-05 12:17:11,395 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard-2/user/2.png
+2025-09-05 12:17:11,426 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/general-widget.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/general-widget.html
+2025-09-05 12:17:11,451 - INFO - Downloading: https://admin.pixelstrap.net/mofi/box-layout.html
+2025-09-05 12:17:11,664 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/graph.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/graph.png
+2025-09-05 12:17:11,692 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard-2/user/3.png
+2025-09-05 12:17:11,709 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard-2/user/1.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard-2/user/1.png
+2025-09-05 12:17:11,737 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/ticket-star.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/ticket-star.png
+2025-09-05 12:17:11,738 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/other-images/cart-img.jpg
+2025-09-05 12:17:11,754 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/other-images/table-img.jpg
+2025-09-05 12:17:11,874 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-widget.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-widget.html
+2025-09-05 12:17:11,900 - INFO - Downloading: https://admin.pixelstrap.net/mofi/layout-rtl.html
+2025-09-05 12:17:12,671 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard-2/user/2.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard-2/user/2.png
+2025-09-05 12:17:12,700 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/profile.png
+2025-09-05 12:17:12,764 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/box-layout.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/box-layout.html
+2025-09-05 12:17:12,796 - INFO - Downloading: https://admin.pixelstrap.net/mofi/layout-dark.html
+2025-09-05 12:17:12,968 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard-2/user/3.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard-2/user/3.png
+2025-09-05 12:17:13,000 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/logo/logo_light.png
+2025-09-05 12:17:13,052 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/other-images/table-img.jpg: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/other-images/table-img.jpg
+2025-09-05 12:17:13,059 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/other-images/cart-img.jpg: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/other-images/cart-img.jpg
+2025-09-05 12:17:13,085 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/logo/logo-icon.png
+2025-09-05 12:17:13,096 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/logo/logo-icon.png
+2025-09-05 12:17:13,374 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/layout-rtl.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/layout-rtl.html
+2025-09-05 12:17:13,400 - INFO - Downloading: https://admin.pixelstrap.net/mofi/hide-on-scroll.html
+2025-09-05 12:17:14,158 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/profile.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/profile.png
+2025-09-05 12:17:14,176 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/1.png
+2025-09-05 12:17:14,416 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/layout-dark.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/layout-dark.html
+2025-09-05 12:17:14,444 - INFO - Downloading: https://admin.pixelstrap.net/mofi/footer-light.html
+2025-09-05 12:17:14,479 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/logo/logo_light.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/logo/logo_light.png
+2025-09-05 12:17:14,497 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/2.png
+2025-09-05 12:17:14,567 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/logo/logo-icon.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/logo/logo-icon.png
+2025-09-05 12:17:14,596 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/logo/logo-icon.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/logo/logo-icon.png
+2025-09-05 12:17:14,597 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/3.png
+2025-09-05 12:17:14,627 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:17:14,629 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/hide-on-scroll.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/hide-on-scroll.html
+2025-09-05 12:17:14,657 - INFO - Downloading: https://admin.pixelstrap.net/mofi/footer-dark.html
+2025-09-05 12:17:15,203 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/1.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/1.png
+2025-09-05 12:17:15,224 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:17:15,554 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/footer-light.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/footer-light.html
+2025-09-05 12:17:15,567 - INFO - Downloading: https://admin.pixelstrap.net/mofi/footer-fixed.html
+2025-09-05 12:17:15,756 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/3.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/3.png
+2025-09-05 12:17:15,775 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/1.png
+2025-09-05 12:17:15,806 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/footer-dark.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/footer-dark.html
+2025-09-05 12:17:15,813 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/4.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:17:15,836 - INFO - Downloading: https://admin.pixelstrap.net/mofi/projects.html
+2025-09-05 12:17:15,848 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/2.png
+2025-09-05 12:17:15,921 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/2.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/2.png
+2025-09-05 12:17:15,942 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:17:16,297 - INFO - Queue status - HTML: 202, Resources: 22, Downloaded: 1
+2025-09-05 12:17:16,312 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/4.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:17:16,335 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/3.png
+2025-09-05 12:17:16,654 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/footer-fixed.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/footer-fixed.html
+2025-09-05 12:17:16,672 - INFO - Downloading: https://admin.pixelstrap.net/mofi/projectcreate.html
+2025-09-05 12:17:16,866 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/1.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/1.png
+2025-09-05 12:17:16,875 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/project/1.png
+2025-09-05 12:17:16,941 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/2.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/2.png
+2025-09-05 12:17:16,964 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/wallet.png
+2025-09-05 12:17:17,014 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/projects.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/projects.html
+2025-09-05 12:17:17,039 - INFO - Downloading: https://admin.pixelstrap.net/mofi/file-manager.html
+2025-09-05 12:17:17,079 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/4.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:17:17,097 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/shield-dne.png
+2025-09-05 12:17:17,306 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/3.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/3.png
+2025-09-05 12:17:17,328 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/graph.png
+2025-09-05 12:17:17,871 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/project/1.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/project/1.png
+2025-09-05 12:17:17,899 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/ticket-star.png
+2025-09-05 12:17:18,043 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/file-manager.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/file-manager.html
+2025-09-05 12:17:18,069 - INFO - Downloading: https://admin.pixelstrap.net/mofi/kanban.html
+2025-09-05 12:17:18,453 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/wallet.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/wallet.png
+2025-09-05 12:17:18,474 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/05.png
+2025-09-05 12:17:18,614 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/graph.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/graph.png
+2025-09-05 12:17:18,640 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/shield-dne.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/shield-dne.png
+2025-09-05 12:17:18,640 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/06.png
+2025-09-05 12:17:18,664 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/07.png
+2025-09-05 12:17:18,874 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/projectcreate.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/projectcreate.html
+2025-09-05 12:17:18,904 - INFO - Downloading: https://admin.pixelstrap.net/mofi/add-products.html
+2025-09-05 12:17:19,234 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/ticket-star.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/ticket-star.png
+2025-09-05 12:17:19,273 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/08.png
+2025-09-05 12:17:19,488 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/kanban.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/kanban.html
+2025-09-05 12:17:19,503 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:17:19,950 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/05.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/05.png
+2025-09-05 12:17:19,966 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/01.jpg
+2025-09-05 12:17:20,196 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/07.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/07.png
+2025-09-05 12:17:20,206 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/06.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/06.png
+2025-09-05 12:17:20,219 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/02.jpg
+2025-09-05 12:17:20,238 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/03.jpg
+2025-09-05 12:17:20,363 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/add-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/add-products.html
+2025-09-05 12:17:20,392 - INFO - Downloading: https://admin.pixelstrap.net/mofi/category.html
+2025-09-05 12:17:20,702 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/08.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/08.png
+2025-09-05 12:17:20,727 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/user/04.jpg
+2025-09-05 12:17:20,866 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:17:20,889 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:17:21,299 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/01.jpg: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/01.jpg
+2025-09-05 12:17:21,320 - INFO - Queue status - HTML: 195, Resources: 8, Downloaded: 1
+2025-09-05 12:17:21,323 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/customers.png
+2025-09-05 12:17:21,566 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/03.jpg: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/03.jpg
+2025-09-05 12:17:21,591 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/revenue.png
+2025-09-05 12:17:21,601 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/02.jpg: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/02.jpg
+2025-09-05 12:17:21,637 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/icon/profit.png
+2025-09-05 12:17:21,761 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/category.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/category.html
+2025-09-05 12:17:21,783 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:17:21,995 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/user/04.jpg: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/user/04.jpg
+2025-09-05 12:17:22,016 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/product/1.png
+2025-09-05 12:17:22,161 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:17:22,182 - INFO - Downloading: https://admin.pixelstrap.net/mofi/payment-details.html
+2025-09-05 12:17:22,504 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/customers.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/customers.png
+2025-09-05 12:17:22,526 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/product/2.png
+2025-09-05 12:17:22,809 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/profit.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/profit.png
+2025-09-05 12:17:22,827 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/product/3.png
+2025-09-05 12:17:22,870 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:17:22,901 - INFO - Downloading: https://admin.pixelstrap.net/mofi/order-history.html
+2025-09-05 12:17:23,176 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/icon/revenue.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/icon/revenue.png
+2025-09-05 12:17:23,182 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/product/1.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/product/1.png
+2025-09-05 12:17:23,193 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/product/4.png
+2025-09-05 12:17:23,206 - INFO - Downloading: https://admin.pixelstrap.net/assets/images/dashboard/product/5.png
+2025-09-05 12:17:23,319 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/payment-details.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/payment-details.html
+2025-09-05 12:17:23,343 - INFO - Downloading: https://admin.pixelstrap.net/mofi/invoice-1.html
+2025-09-05 12:17:23,647 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/product/2.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/product/2.png
+2025-09-05 12:17:23,909 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/product/3.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/product/3.png
+2025-09-05 12:17:23,938 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/order-history.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/order-history.html
+2025-09-05 12:17:23,957 - INFO - Downloading: https://admin.pixelstrap.net/mofi/invoice-2.html
+2025-09-05 12:17:24,118 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/product/5.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/product/5.png
+2025-09-05 12:17:24,505 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/assets/images/dashboard/product/4.png: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/assets/images/dashboard/product/4.png
+2025-09-05 12:17:24,581 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/invoice-1.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/invoice-1.html
+2025-09-05 12:17:24,597 - INFO - Downloading: https://admin.pixelstrap.net/mofi/invoice-3.html
+2025-09-05 12:17:24,812 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/invoice-2.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/invoice-2.html
+2025-09-05 12:17:24,840 - INFO - Downloading: https://admin.pixelstrap.net/mofi/invoice-4.html
+2025-09-05 12:17:25,449 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/invoice-3.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/invoice-3.html
+2025-09-05 12:17:25,465 - INFO - Downloading: https://admin.pixelstrap.net/mofi/invoice-5.html
+2025-09-05 12:17:25,655 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/invoice-4.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/invoice-4.html
+2025-09-05 12:17:25,670 - INFO - Downloading: https://admin.pixelstrap.net/mofi/invoice-6.html
+2025-09-05 12:17:26,327 - INFO - Queue status - HTML: 186, Resources: 0, Downloaded: 1
+2025-09-05 12:17:26,657 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/invoice-5.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/invoice-5.html
+2025-09-05 12:17:26,679 - INFO - Downloading: https://admin.pixelstrap.net/mofi/cart.html
+2025-09-05 12:17:26,858 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/invoice-6.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/invoice-6.html
+2025-09-05 12:17:26,887 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-wish.html
+2025-09-05 12:17:27,726 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/cart.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/cart.html
+2025-09-05 12:17:27,742 - INFO - Downloading: https://admin.pixelstrap.net/mofi/checkout.html
+2025-09-05 12:17:28,027 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-wish.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-wish.html
+2025-09-05 12:17:28,055 - INFO - Downloading: https://admin.pixelstrap.net/mofi/pricing.html
+2025-09-05 12:17:28,876 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/checkout.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/checkout.html
+2025-09-05 12:17:28,893 - INFO - Downloading: https://admin.pixelstrap.net/mofi/letter-box.html
+2025-09-05 12:17:29,235 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/pricing.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/pricing.html
+2025-09-05 12:17:29,252 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:17:29,637 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/letter-box.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/letter-box.html
+2025-09-05 12:17:29,647 - INFO - Downloading: https://admin.pixelstrap.net/mofi/group-chat.html
+2025-09-05 12:17:29,987 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:17:29,997 - INFO - Downloading: https://admin.pixelstrap.net/mofi/user-profile.html
+2025-09-05 12:17:30,256 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/group-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/group-chat.html
+2025-09-05 12:17:30,267 - INFO - Downloading: https://admin.pixelstrap.net/mofi/edit-profile.html
+2025-09-05 12:17:30,731 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/user-profile.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/user-profile.html
+2025-09-05 12:17:30,747 - INFO - Downloading: https://admin.pixelstrap.net/mofi/user-cards.html
+2025-09-05 12:17:30,877 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/edit-profile.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/edit-profile.html
+2025-09-05 12:17:30,892 - INFO - Downloading: https://admin.pixelstrap.net/mofi/bookmark.html
+2025-09-05 12:17:31,336 - INFO - Queue status - HTML: 175, Resources: 0, Downloaded: 1
+2025-09-05 12:17:31,384 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/user-cards.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/user-cards.html
+2025-09-05 12:17:31,398 - INFO - Downloading: https://admin.pixelstrap.net/mofi/contacts.html
+2025-09-05 12:17:31,404 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/bookmark.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/bookmark.html
+2025-09-05 12:17:31,418 - INFO - Downloading: https://admin.pixelstrap.net/mofi/task.html
+2025-09-05 12:17:31,897 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/task.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/task.html
+2025-09-05 12:17:31,901 - INFO - Downloading: https://admin.pixelstrap.net/mofi/calendar-basic.html
+2025-09-05 12:17:31,938 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/contacts.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/contacts.html
+2025-09-05 12:17:31,942 - INFO - Downloading: https://admin.pixelstrap.net/mofi/social-app.html
+2025-09-05 12:17:32,534 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/calendar-basic.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/calendar-basic.html
+2025-09-05 12:17:32,553 - INFO - Downloading: https://admin.pixelstrap.net/mofi/to-do.html
+2025-09-05 12:17:32,665 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/social-app.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/social-app.html
+2025-09-05 12:17:32,673 - INFO - Downloading: https://admin.pixelstrap.net/mofi/search.html
+2025-09-05 12:17:33,273 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/to-do.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/to-do.html
+2025-09-05 12:17:33,282 - INFO - Downloading: https://admin.pixelstrap.net/mofi/form-validation.html
+2025-09-05 12:17:33,471 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/search.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/search.html
+2025-09-05 12:17:33,483 - INFO - Downloading: https://admin.pixelstrap.net/mofi/base-input.html
+2025-09-05 12:17:34,069 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/form-validation.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/form-validation.html
+2025-09-05 12:17:34,083 - INFO - Downloading: https://admin.pixelstrap.net/mofi/radio-checkbox-control.html
+2025-09-05 12:17:34,214 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/base-input.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/base-input.html
+2025-09-05 12:17:34,234 - INFO - Downloading: https://admin.pixelstrap.net/mofi/input-group.html
+2025-09-05 12:17:34,831 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/input-group.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/input-group.html
+2025-09-05 12:17:34,833 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/radio-checkbox-control.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/radio-checkbox-control.html
+2025-09-05 12:17:34,840 - INFO - Downloading: https://admin.pixelstrap.net/mofi/input-mask.html
+2025-09-05 12:17:34,850 - INFO - Downloading: https://admin.pixelstrap.net/mofi/megaoptions.html
+2025-09-05 12:17:35,554 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/megaoptions.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/megaoptions.html
+2025-09-05 12:17:35,557 - INFO - Downloading: https://admin.pixelstrap.net/mofi/datepicker.html
+2025-09-05 12:17:35,882 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/input-mask.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/input-mask.html
+2025-09-05 12:17:35,888 - INFO - Downloading: https://admin.pixelstrap.net/mofi/touchspin.html
+2025-09-05 12:17:36,064 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/datepicker.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/datepicker.html
+2025-09-05 12:17:36,071 - INFO - Downloading: https://admin.pixelstrap.net/mofi/select2.html
+2025-09-05 12:17:36,345 - INFO - Queue status - HTML: 160, Resources: 0, Downloaded: 1
+2025-09-05 12:17:36,690 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/touchspin.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/touchspin.html
+2025-09-05 12:17:36,705 - INFO - Downloading: https://admin.pixelstrap.net/mofi/switch.html
+2025-09-05 12:17:37,077 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/select2.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/select2.html
+2025-09-05 12:17:37,091 - INFO - Downloading: https://admin.pixelstrap.net/mofi/typeahead.html
+2025-09-05 12:17:37,270 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/switch.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/switch.html
+2025-09-05 12:17:37,279 - INFO - Downloading: https://admin.pixelstrap.net/mofi/clipboard.html
+2025-09-05 12:17:37,730 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/typeahead.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/typeahead.html
+2025-09-05 12:17:37,742 - INFO - Downloading: https://admin.pixelstrap.net/mofi/form-wizard.html
+2025-09-05 12:17:37,960 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/clipboard.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/clipboard.html
+2025-09-05 12:17:37,981 - INFO - Downloading: https://admin.pixelstrap.net/mofi/form-wizard-two.html
+2025-09-05 12:17:38,782 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/form-wizard.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/form-wizard.html
+2025-09-05 12:17:38,800 - INFO - Downloading: https://admin.pixelstrap.net/mofi/two-factor.html
+2025-09-05 12:17:38,837 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/form-wizard-two.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/form-wizard-two.html
+2025-09-05 12:17:38,852 - INFO - Downloading: https://admin.pixelstrap.net/mofi/bootstrap-basic-table.html
+2025-09-05 12:17:39,685 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/bootstrap-basic-table.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/bootstrap-basic-table.html
+2025-09-05 12:17:39,697 - INFO - Downloading: https://admin.pixelstrap.net/mofi/table-components.html
+2025-09-05 12:17:39,737 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/two-factor.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/two-factor.html
+2025-09-05 12:17:39,757 - INFO - Downloading: https://admin.pixelstrap.net/mofi/datatable-basic-init.html
+2025-09-05 12:17:40,497 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/datatable-basic-init.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/datatable-basic-init.html
+2025-09-05 12:17:40,507 - INFO - Downloading: https://admin.pixelstrap.net/mofi/datatable-advance.html
+2025-09-05 12:17:40,584 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/table-components.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/table-components.html
+2025-09-05 12:17:40,600 - INFO - Downloading: https://admin.pixelstrap.net/mofi/datatable-API.html
+2025-09-05 12:17:41,235 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/datatable-advance.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/datatable-advance.html
+2025-09-05 12:17:41,249 - INFO - Downloading: https://admin.pixelstrap.net/mofi/datatable-data-source.html
+2025-09-05 12:17:41,352 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/datatable-API.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/datatable-API.html
+2025-09-05 12:17:41,354 - INFO - Queue status - HTML: 148, Resources: 0, Downloaded: 1
+2025-09-05 12:17:41,367 - INFO - Downloading: https://admin.pixelstrap.net/mofi/datatable-ext-autofill.html
+2025-09-05 12:17:42,051 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/datatable-ext-autofill.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/datatable-ext-autofill.html
+2025-09-05 12:17:42,073 - INFO - Downloading: https://admin.pixelstrap.net/mofi/jsgrid-table.html
+2025-09-05 12:17:42,231 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/datatable-data-source.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/datatable-data-source.html
+2025-09-05 12:17:42,252 - INFO - Downloading: https://admin.pixelstrap.net/mofi/typography.html
+2025-09-05 12:17:42,965 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/jsgrid-table.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/jsgrid-table.html
+2025-09-05 12:17:42,997 - INFO - Downloading: https://admin.pixelstrap.net/mofi/avatars.html
+2025-09-05 12:17:43,330 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/typography.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/typography.html
+2025-09-05 12:17:43,339 - INFO - Downloading: https://admin.pixelstrap.net/mofi/divider.html
+2025-09-05 12:17:43,514 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/avatars.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/avatars.html
+2025-09-05 12:17:43,526 - INFO - Downloading: https://admin.pixelstrap.net/mofi/helper-classes.html
+2025-09-05 12:17:44,048 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/divider.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/divider.html
+2025-09-05 12:17:44,059 - INFO - Downloading: https://admin.pixelstrap.net/mofi/grid.html
+2025-09-05 12:17:44,299 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/helper-classes.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/helper-classes.html
+2025-09-05 12:17:44,320 - INFO - Downloading: https://admin.pixelstrap.net/mofi/tag-pills.html
+2025-09-05 12:17:45,141 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/grid.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/grid.html
+2025-09-05 12:17:45,159 - INFO - Downloading: https://admin.pixelstrap.net/mofi/progress-bar.html
+2025-09-05 12:17:45,206 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/tag-pills.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/tag-pills.html
+2025-09-05 12:17:45,222 - INFO - Downloading: https://admin.pixelstrap.net/mofi/modal.html
+2025-09-05 12:17:46,122 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/progress-bar.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/progress-bar.html
+2025-09-05 12:17:46,152 - INFO - Downloading: https://admin.pixelstrap.net/mofi/alert.html
+2025-09-05 12:17:46,157 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/modal.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/modal.html
+2025-09-05 12:17:46,172 - INFO - Downloading: https://admin.pixelstrap.net/mofi/popover.html
+2025-09-05 12:17:46,362 - INFO - Queue status - HTML: 136, Resources: 0, Downloaded: 1
+2025-09-05 12:17:46,962 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/alert.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/alert.html
+2025-09-05 12:17:46,984 - INFO - Downloading: https://admin.pixelstrap.net/mofi/placeholders.html
+2025-09-05 12:17:47,018 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/popover.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/popover.html
+2025-09-05 12:17:47,025 - INFO - Downloading: https://admin.pixelstrap.net/mofi/tooltip.html
+2025-09-05 12:17:47,820 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/placeholders.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/placeholders.html
+2025-09-05 12:17:47,825 - INFO - Downloading: https://admin.pixelstrap.net/mofi/dropdown.html
+2025-09-05 12:17:47,920 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/tooltip.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/tooltip.html
+2025-09-05 12:17:47,929 - INFO - Downloading: https://admin.pixelstrap.net/mofi/according.html
+2025-09-05 12:17:48,607 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/according.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/according.html
+2025-09-05 12:17:48,612 - INFO - Downloading: https://admin.pixelstrap.net/mofi/tab-bootstrap.html
+2025-09-05 12:17:48,647 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/dropdown.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/dropdown.html
+2025-09-05 12:17:48,662 - INFO - Downloading: https://admin.pixelstrap.net/mofi/offcanvas.html
+2025-09-05 12:17:49,343 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/tab-bootstrap.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/tab-bootstrap.html
+2025-09-05 12:17:49,349 - INFO - Downloading: https://admin.pixelstrap.net/mofi/navigate-links.html
+2025-09-05 12:17:49,364 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/offcanvas.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/offcanvas.html
+2025-09-05 12:17:49,368 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list.html
+2025-09-05 12:17:49,945 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list.html
+2025-09-05 12:17:49,949 - INFO - Downloading: https://admin.pixelstrap.net/mofi/scrollable.html
+2025-09-05 12:17:49,952 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/navigate-links.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/navigate-links.html
+2025-09-05 12:17:49,974 - INFO - Downloading: https://admin.pixelstrap.net/mofi/tree.html
+2025-09-05 12:17:50,475 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/scrollable.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/scrollable.html
+2025-09-05 12:17:50,479 - INFO - Downloading: https://admin.pixelstrap.net/mofi/toasts.html
+2025-09-05 12:17:50,697 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/tree.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/tree.html
+2025-09-05 12:17:50,707 - INFO - Downloading: https://admin.pixelstrap.net/mofi/rating.html
+2025-09-05 12:17:51,210 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/toasts.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/toasts.html
+2025-09-05 12:17:51,215 - INFO - Downloading: https://admin.pixelstrap.net/mofi/dropzone.html
+2025-09-05 12:17:51,283 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/rating.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/rating.html
+2025-09-05 12:17:51,300 - INFO - Downloading: https://admin.pixelstrap.net/mofi/tour.html
+2025-09-05 12:17:51,367 - INFO - Queue status - HTML: 122, Resources: 0, Downloaded: 1
+2025-09-05 12:17:51,775 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/dropzone.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/dropzone.html
+2025-09-05 12:17:51,780 - INFO - Downloading: https://admin.pixelstrap.net/mofi/sweet-alert2.html
+2025-09-05 12:17:51,920 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/tour.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/tour.html
+2025-09-05 12:17:51,930 - INFO - Downloading: https://admin.pixelstrap.net/mofi/modal-animated.html
+2025-09-05 12:17:52,360 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/sweet-alert2.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/sweet-alert2.html
+2025-09-05 12:17:52,370 - INFO - Downloading: https://admin.pixelstrap.net/mofi/owl-carousel.html
+2025-09-05 12:17:52,477 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/modal-animated.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/modal-animated.html
+2025-09-05 12:17:52,489 - INFO - Downloading: https://admin.pixelstrap.net/mofi/ribbons.html
+2025-09-05 12:17:53,659 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/ribbons.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/ribbons.html
+2025-09-05 12:17:53,669 - INFO - Downloading: https://admin.pixelstrap.net/mofi/pagination.html
+2025-09-05 12:17:53,791 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/owl-carousel.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/owl-carousel.html
+2025-09-05 12:17:53,809 - INFO - Downloading: https://admin.pixelstrap.net/mofi/scrollspy.html
+2025-09-05 12:17:54,714 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/pagination.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/pagination.html
+2025-09-05 12:17:54,730 - INFO - Downloading: https://admin.pixelstrap.net/mofi/breadcrumb.html
+2025-09-05 12:17:54,851 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/scrollspy.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/scrollspy.html
+2025-09-05 12:17:54,862 - INFO - Downloading: https://admin.pixelstrap.net/mofi/range-slider.html
+2025-09-05 12:17:55,571 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/breadcrumb.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/breadcrumb.html
+2025-09-05 12:17:55,581 - INFO - Downloading: https://admin.pixelstrap.net/mofi/ratios.html
+2025-09-05 12:17:55,661 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/range-slider.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/range-slider.html
+2025-09-05 12:17:55,677 - INFO - Downloading: https://admin.pixelstrap.net/mofi/image-cropper.html
+2025-09-05 12:17:56,372 - INFO - Queue status - HTML: 112, Resources: 0, Downloaded: 1
+2025-09-05 12:17:56,498 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/ratios.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/ratios.html
+2025-09-05 12:17:56,519 - INFO - Downloading: https://admin.pixelstrap.net/mofi/basic-card.html
+2025-09-05 12:17:56,522 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/image-cropper.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/image-cropper.html
+2025-09-05 12:17:56,543 - INFO - Downloading: https://admin.pixelstrap.net/mofi/creative-card.html
+2025-09-05 12:17:57,067 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/basic-card.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/basic-card.html
+2025-09-05 12:17:57,071 - INFO - Downloading: https://admin.pixelstrap.net/mofi/dragable-card.html
+2025-09-05 12:17:57,084 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/creative-card.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/creative-card.html
+2025-09-05 12:17:57,087 - INFO - Downloading: https://admin.pixelstrap.net/mofi/timeline-v-1.html
+2025-09-05 12:17:57,622 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/timeline-v-1.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/timeline-v-1.html
+2025-09-05 12:17:57,626 - INFO - Downloading: https://admin.pixelstrap.net/mofi/animate.html
+2025-09-05 12:17:57,643 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/dragable-card.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/dragable-card.html
+2025-09-05 12:17:57,653 - INFO - Downloading: https://admin.pixelstrap.net/mofi/scroll-reval.html
+2025-09-05 12:17:58,359 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/scroll-reval.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/scroll-reval.html
+2025-09-05 12:17:58,362 - INFO - Downloading: https://admin.pixelstrap.net/mofi/AOS.html
+2025-09-05 12:17:58,369 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/animate.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/animate.html
+2025-09-05 12:17:58,376 - INFO - Downloading: https://admin.pixelstrap.net/mofi/tilt.html
+2025-09-05 12:17:58,945 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/tilt.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/tilt.html
+2025-09-05 12:17:58,951 - INFO - Downloading: https://admin.pixelstrap.net/mofi/wow.html
+2025-09-05 12:17:59,120 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/AOS.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/AOS.html
+2025-09-05 12:17:59,142 - INFO - Downloading: https://admin.pixelstrap.net/mofi/flash-icon.html
+2025-09-05 12:18:00,018 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/wow.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/wow.html
+2025-09-05 12:18:00,027 - INFO - Downloading: https://admin.pixelstrap.net/mofi/flag-icon.html
+2025-09-05 12:18:00,163 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/flash-icon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/flash-icon.html
+2025-09-05 12:18:00,186 - INFO - Downloading: https://admin.pixelstrap.net/mofi/font-awesome.html
+2025-09-05 12:18:00,992 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/flag-icon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/flag-icon.html
+2025-09-05 12:18:00,997 - INFO - Downloading: https://admin.pixelstrap.net/mofi/ico-icon.html
+2025-09-05 12:18:01,039 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/font-awesome.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/font-awesome.html
+2025-09-05 12:18:01,048 - INFO - Downloading: https://admin.pixelstrap.net/mofi/themify-icon.html
+2025-09-05 12:18:01,383 - INFO - Queue status - HTML: 98, Resources: 0, Downloaded: 1
+2025-09-05 12:18:01,750 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/ico-icon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/ico-icon.html
+2025-09-05 12:18:01,757 - INFO - Downloading: https://admin.pixelstrap.net/mofi/feather-icon.html
+2025-09-05 12:18:01,775 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/themify-icon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/themify-icon.html
+2025-09-05 12:18:01,785 - INFO - Downloading: https://admin.pixelstrap.net/mofi/whether-icon.html
+2025-09-05 12:18:02,755 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/feather-icon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/feather-icon.html
+2025-09-05 12:18:02,765 - INFO - Downloading: https://admin.pixelstrap.net/mofi/buttons.html
+2025-09-05 12:18:02,886 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/whether-icon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/whether-icon.html
+2025-09-05 12:18:02,902 - INFO - Downloading: https://admin.pixelstrap.net/mofi/echarts.html
+2025-09-05 12:18:03,475 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/buttons.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/buttons.html
+2025-09-05 12:18:03,478 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-apex.html
+2025-09-05 12:18:03,533 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/echarts.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/echarts.html
+2025-09-05 12:18:03,541 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-google.html
+2025-09-05 12:18:04,625 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-apex.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-apex.html
+2025-09-05 12:18:04,642 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-sparkline.html
+2025-09-05 12:18:04,785 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-google.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-google.html
+2025-09-05 12:18:04,813 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-flot.html
+2025-09-05 12:18:06,396 - INFO - Queue status - HTML: 90, Resources: 0, Downloaded: 1
+2025-09-05 12:18:06,417 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-flot.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-flot.html
+2025-09-05 12:18:06,441 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-knob.html
+2025-09-05 12:18:06,459 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-sparkline.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-sparkline.html
+2025-09-05 12:18:06,474 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-morris.html
+2025-09-05 12:18:07,298 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-knob.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-knob.html
+2025-09-05 12:18:07,314 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chartjs.html
+2025-09-05 12:18:07,374 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-morris.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-morris.html
+2025-09-05 12:18:07,392 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chartist.html
+2025-09-05 12:18:08,095 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chartjs.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chartjs.html
+2025-09-05 12:18:08,102 - INFO - Downloading: https://admin.pixelstrap.net/mofi/chart-peity.html
+2025-09-05 12:18:08,145 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chartist.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chartist.html
+2025-09-05 12:18:08,151 - INFO - Downloading: https://admin.pixelstrap.net/mofi/landing-page.html
+2025-09-05 12:18:08,572 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/landing-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/landing-page.html
+2025-09-05 12:18:08,579 - INFO - Downloading: https://admin.pixelstrap.net/mofi/sample-page.html
+2025-09-05 12:18:09,029 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/chart-peity.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/chart-peity.html
+2025-09-05 12:18:09,038 - INFO - Downloading: https://admin.pixelstrap.net/mofi/internationalization.html
+2025-09-05 12:18:09,237 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/sample-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/sample-page.html
+2025-09-05 12:18:09,250 - INFO - Downloading: https://admin.pixelstrap.net/starter-kit/index.html
+2025-09-05 12:18:09,634 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/internationalization.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/internationalization.html
+2025-09-05 12:18:09,641 - INFO - Downloading: https://admin.pixelstrap.net/mofi/error-400.html
+2025-09-05 12:18:09,830 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/starter-kit/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/starter-kit/index.html
+2025-09-05 12:18:09,844 - INFO - Downloading: https://admin.pixelstrap.net/mofi/error-401.html
+2025-09-05 12:18:10,193 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/error-400.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/error-400.html
+2025-09-05 12:18:10,203 - INFO - Downloading: https://admin.pixelstrap.net/mofi/error-403.html
+2025-09-05 12:18:10,452 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/error-401.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/error-401.html
+2025-09-05 12:18:10,455 - INFO - Downloading: https://admin.pixelstrap.net/mofi/error-404.html
+2025-09-05 12:18:10,731 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/error-403.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/error-403.html
+2025-09-05 12:18:10,741 - INFO - Downloading: https://admin.pixelstrap.net/mofi/error-500.html
+2025-09-05 12:18:10,990 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/error-404.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/error-404.html
+2025-09-05 12:18:11,003 - INFO - Downloading: https://admin.pixelstrap.net/mofi/error-503.html
+2025-09-05 12:18:11,254 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/error-500.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/error-500.html
+2025-09-05 12:18:11,268 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login.html
+2025-09-05 12:18:11,405 - INFO - Queue status - HTML: 74, Resources: 0, Downloaded: 1
+2025-09-05 12:18:11,959 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login.html
+2025-09-05 12:18:11,972 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login_one.html
+2025-09-05 12:18:12,112 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/error-503.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/error-503.html
+2025-09-05 12:18:12,127 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login_two.html
+2025-09-05 12:18:13,331 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login_one.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login_one.html
+2025-09-05 12:18:13,336 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login-bs-validation.html
+2025-09-05 12:18:13,748 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login-bs-validation.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login-bs-validation.html
+2025-09-05 12:18:13,757 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login-bs-tt-validation.html
+2025-09-05 12:18:13,828 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login_two.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login_two.html
+2025-09-05 12:18:13,836 - INFO - Downloading: https://admin.pixelstrap.net/mofi/login-sa-validation.html
+2025-09-05 12:18:14,348 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login-bs-tt-validation.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login-bs-tt-validation.html
+2025-09-05 12:18:14,361 - INFO - Downloading: https://admin.pixelstrap.net/mofi/sign-up.html
+2025-09-05 12:18:14,547 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/login-sa-validation.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/login-sa-validation.html
+2025-09-05 12:18:14,558 - INFO - Downloading: https://admin.pixelstrap.net/mofi/sign-up-one.html
+2025-09-05 12:18:15,028 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/sign-up.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/sign-up.html
+2025-09-05 12:18:15,037 - INFO - Downloading: https://admin.pixelstrap.net/mofi/sign-up-two.html
+2025-09-05 12:18:15,235 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/sign-up-one.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/sign-up-one.html
+2025-09-05 12:18:15,252 - INFO - Downloading: https://admin.pixelstrap.net/mofi/sign-up-wizard.html
+2025-09-05 12:18:16,013 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/sign-up-two.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/sign-up-two.html
+2025-09-05 12:18:16,019 - INFO - Downloading: https://admin.pixelstrap.net/mofi/unlock.html
+2025-09-05 12:18:16,064 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/sign-up-wizard.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/sign-up-wizard.html
+2025-09-05 12:18:16,076 - INFO - Downloading: https://admin.pixelstrap.net/mofi/forget-password.html
+2025-09-05 12:18:16,412 - INFO - Queue status - HTML: 63, Resources: 0, Downloaded: 1
+2025-09-05 12:18:16,684 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/unlock.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/unlock.html
+2025-09-05 12:18:16,692 - INFO - Downloading: https://admin.pixelstrap.net/mofi/reset-password.html
+2025-09-05 12:18:16,802 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/forget-password.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/forget-password.html
+2025-09-05 12:18:16,810 - INFO - Downloading: https://admin.pixelstrap.net/mofi/maintenance.html
+2025-09-05 12:18:17,348 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/reset-password.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/reset-password.html
+2025-09-05 12:18:17,354 - INFO - Downloading: https://admin.pixelstrap.net/mofi/comingsoon.html
+2025-09-05 12:18:17,416 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/maintenance.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/maintenance.html
+2025-09-05 12:18:17,427 - INFO - Downloading: https://admin.pixelstrap.net/mofi/comingsoon-bg-video.html
+2025-09-05 12:18:18,146 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/comingsoon.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/comingsoon.html
+2025-09-05 12:18:18,160 - INFO - Downloading: https://admin.pixelstrap.net/mofi/comingsoon-bg-img.html
+2025-09-05 12:18:18,424 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/comingsoon-bg-video.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/comingsoon-bg-video.html
+2025-09-05 12:18:18,438 - INFO - Downloading: https://admin.pixelstrap.net/mofi/basic-template.html
+2025-09-05 12:18:19,024 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/comingsoon-bg-img.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/comingsoon-bg-img.html
+2025-09-05 12:18:19,035 - INFO - Downloading: https://admin.pixelstrap.net/mofi/email-header.html
+2025-09-05 12:18:19,359 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/basic-template.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/basic-template.html
+2025-09-05 12:18:19,375 - INFO - Downloading: https://admin.pixelstrap.net/mofi/template-email.html
+2025-09-05 12:18:19,940 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/email-header.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/email-header.html
+2025-09-05 12:18:19,949 - INFO - Downloading: https://admin.pixelstrap.net/mofi/template-email-2.html
+2025-09-05 12:18:20,166 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/template-email.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/template-email.html
+2025-09-05 12:18:20,174 - INFO - Downloading: https://admin.pixelstrap.net/mofi/ecommerce-templates.html
+2025-09-05 12:18:20,579 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/template-email-2.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/template-email-2.html
+2025-09-05 12:18:20,586 - INFO - Downloading: https://admin.pixelstrap.net/mofi/email-order-success.html
+2025-09-05 12:18:20,751 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/ecommerce-templates.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/ecommerce-templates.html
+2025-09-05 12:18:20,758 - INFO - Downloading: https://admin.pixelstrap.net/mofi/gallery.html
+2025-09-05 12:18:21,118 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/email-order-success.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/email-order-success.html
+2025-09-05 12:18:21,127 - INFO - Downloading: https://admin.pixelstrap.net/mofi/gallery-with-description.html
+2025-09-05 12:18:21,337 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/gallery.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/gallery.html
+2025-09-05 12:18:21,352 - INFO - Downloading: https://admin.pixelstrap.net/mofi/gallery-masonry.html
+2025-09-05 12:18:21,420 - INFO - Queue status - HTML: 49, Resources: 0, Downloaded: 1
+2025-09-05 12:18:21,642 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/gallery-with-description.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/gallery-with-description.html
+2025-09-05 12:18:21,653 - INFO - Downloading: https://admin.pixelstrap.net/mofi/masonry-gallery-with-disc.html
+2025-09-05 12:18:21,918 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/gallery-masonry.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/gallery-masonry.html
+2025-09-05 12:18:21,924 - INFO - Downloading: https://admin.pixelstrap.net/mofi/gallery-hover.html
+2025-09-05 12:18:22,257 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/masonry-gallery-with-disc.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/masonry-gallery-with-disc.html
+2025-09-05 12:18:22,260 - INFO - Downloading: https://admin.pixelstrap.net/mofi/blog.html
+2025-09-05 12:18:22,492 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/gallery-hover.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/gallery-hover.html
+2025-09-05 12:18:22,496 - INFO - Downloading: https://admin.pixelstrap.net/mofi/blog-single.html
+2025-09-05 12:18:22,955 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/blog-single.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/blog-single.html
+2025-09-05 12:18:22,985 - INFO - Downloading: https://admin.pixelstrap.net/mofi/add-post.html
+2025-09-05 12:18:23,466 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/blog.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/blog.html
+2025-09-05 12:18:23,506 - INFO - Downloading: https://admin.pixelstrap.net/mofi/faq.html
+2025-09-05 12:18:24,091 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/add-post.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/add-post.html
+2025-09-05 12:18:24,100 - INFO - Downloading: https://admin.pixelstrap.net/mofi/job-cards-view.html
+2025-09-05 12:18:24,169 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/faq.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/faq.html
+2025-09-05 12:18:24,185 - INFO - Downloading: https://admin.pixelstrap.net/mofi/job-list-view.html
+2025-09-05 12:18:24,909 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/job-cards-view.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/job-cards-view.html
+2025-09-05 12:18:24,918 - INFO - Downloading: https://admin.pixelstrap.net/mofi/job-details.html
+2025-09-05 12:18:24,914 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/job-list-view.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/job-list-view.html
+2025-09-05 12:18:24,931 - INFO - Downloading: https://admin.pixelstrap.net/mofi/job-apply.html
+2025-09-05 12:18:25,843 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/job-apply.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/job-apply.html
+2025-09-05 12:18:25,857 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/job-details.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/job-details.html
+2025-09-05 12:18:25,858 - INFO - Downloading: https://admin.pixelstrap.net/mofi/course-list-view.html
+2025-09-05 12:18:25,867 - INFO - Downloading: https://admin.pixelstrap.net/mofi/course-detailed.html
+2025-09-05 12:18:26,427 - INFO - Queue status - HTML: 37, Resources: 0, Downloaded: 1
+2025-09-05 12:18:26,666 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/course-list-view.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/course-list-view.html
+2025-09-05 12:18:26,691 - INFO - Downloading: https://admin.pixelstrap.net/mofi/map-js.html
+2025-09-05 12:18:26,746 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/course-detailed.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/course-detailed.html
+2025-09-05 12:18:26,757 - INFO - Downloading: https://admin.pixelstrap.net/mofi/vector-map.html
+2025-09-05 12:18:27,473 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/vector-map.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/vector-map.html
+2025-09-05 12:18:27,481 - INFO - Downloading: https://admin.pixelstrap.net/mofi/quilleditor.html
+2025-09-05 12:18:27,517 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/map-js.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/map-js.html
+2025-09-05 12:18:27,529 - INFO - Downloading: https://admin.pixelstrap.net/mofi/summernote.html
+2025-09-05 12:18:28,369 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/quilleditor.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/quilleditor.html
+2025-09-05 12:18:28,378 - INFO - Downloading: https://admin.pixelstrap.net/mofi/ckeditor.html
+2025-09-05 12:18:28,417 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/summernote.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/summernote.html
+2025-09-05 12:18:28,433 - INFO - Downloading: https://admin.pixelstrap.net/mofi/simple-MDE.html
+2025-09-05 12:18:29,133 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/ckeditor.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/ckeditor.html
+2025-09-05 12:18:29,141 - INFO - Downloading: https://admin.pixelstrap.net/mofi/ace-code-editor.html
+2025-09-05 12:18:29,156 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/simple-MDE.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/simple-MDE.html
+2025-09-05 12:18:29,159 - INFO - Downloading: https://admin.pixelstrap.net/mofi/knowledgebase.html
+2025-09-05 12:18:29,694 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/knowledgebase.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/knowledgebase.html
+2025-09-05 12:18:29,697 - INFO - Downloading: https://admin.pixelstrap.net/mofi/support-ticket.html
+2025-09-05 12:18:29,743 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/ace-code-editor.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/ace-code-editor.html
+2025-09-05 12:18:29,749 - INFO - Downloading: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:18:30,219 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/support-ticket.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/support-ticket.html
+2025-09-05 12:18:30,230 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:30,258 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/index.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/index.html
+2025-09-05 12:18:30,261 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:30,937 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:30,942 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:30,964 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:30,970 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:31,433 - INFO - Queue status - HTML: 23, Resources: 0, Downloaded: 1
+2025-09-05 12:18:31,756 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:31,768 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:32,430 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:32,434 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:32,851 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:32,860 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:32,985 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:32,996 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:33,393 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:33,396 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:33,742 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:33,755 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:34,345 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:34,349 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:34,355 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product-page.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product-page.html
+2025-09-05 12:18:34,360 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:34,896 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:34,901 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:34,903 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:34,912 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:35,440 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:35,445 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:35,486 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:35,498 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:36,062 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:36,066 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:36,171 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:36,185 - INFO - Downloading: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:36,442 - INFO - Queue status - HTML: 9, Resources: 0, Downloaded: 1
+2025-09-05 12:18:36,844 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:36,853 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:37,158 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/private-chat.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/private-chat.html
+2025-09-05 12:18:37,171 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:37,656 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:37,669 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:38,075 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:38,099 - INFO - Downloading: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:38,597 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:38,603 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:38,788 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/product.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/product.html
+2025-09-05 12:18:38,801 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,239 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,257 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,335 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,344 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,781 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,785 - INFO - Downloading: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:39,883 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:40,160 - ERROR - ✗ Failed to download https://admin.pixelstrap.net/mofi/list-products.html: 404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/list-products.html
+2025-09-05 12:18:43,454 - INFO - 
+==================================================
+2025-09-05 12:18:43,456 - INFO - SCRAPING SUMMARY
+2025-09-05 12:18:43,459 - INFO - ==================================================
+2025-09-05 12:18:43,462 - INFO - Total files downloaded: 1
+2025-09-05 12:18:43,463 - INFO - Failed downloads: 270
+2025-09-05 12:18:43,467 - INFO - Download directory: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/mofi_template_downloaded
+2025-09-05 12:18:43,468 - INFO - 
+Failed URLs:
+2025-09-05 12:18:43,469 - INFO -   - https://admin.pixelstrap.net/mofi/bootstrap-basic-table.html
+2025-09-05 12:18:43,471 - INFO -   - https://admin.pixelstrap.net/mofi/wow.html
+2025-09-05 12:18:43,473 - INFO -   - https://admin.pixelstrap.net/assets/css/responsive.css
+2025-09-05 12:18:43,477 - INFO -   - https://admin.pixelstrap.net/mofi/error-401.html
+2025-09-05 12:18:43,478 - INFO -   - https://admin.pixelstrap.net/assets/images/dashboard/project/4.png
+2025-09-05 12:18:43,479 - INFO -   - https://admin.pixelstrap.net/assets/js/datatable/datatables/jquery.dataTables.min.js
+2025-09-05 12:18:43,479 - INFO -   - https://admin.pixelstrap.net/mofi/touchspin.html
+2025-09-05 12:18:43,479 - INFO -   - https://admin.pixelstrap.net/mofi/according.html
+2025-09-05 12:18:43,479 - INFO -   - https://admin.pixelstrap.net/mofi/invoice-3.html
+2025-09-05 12:18:43,479 - INFO -   - https://admin.pixelstrap.net/mofi/flash-icon.html
+2025-09-05 12:18:43,479 - INFO -   ... and 260 more

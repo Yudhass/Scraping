@@ -1,0 +1,51 @@
+{
+  "analysis_date": "2025-09-05 13:10:13",
+  "summary": {
+    "total_svg_files": 8,
+    "unique_svg_files": 2,
+    "total_icons": 874,
+    "total_size_bytes": 768009,
+    "total_size_kb": 750.0
+  },
+  "svg_files": [
+    {
+      "filename": "test.svg",
+      "filepath": "test.svg",
+      "svg_type": "Symbol Sprite",
+      "description": "SVG sprite with symbol definitions",
+      "total_icons": 167,
+      "sample_icons": [
+        "header-bookmark",
+        "header-message",
+        "header-home",
+        "full-screen",
+        "landing-taptop",
+        "toggle-icon",
+        "fill-toggle-icon",
+        "search",
+        "moon",
+        "notification"
+      ]
+    },
+    {
+      "filename": "fontawesome-webfont.svg",
+      "filepath": "all_svg_download/fontawesome-webfont.svg",
+      "svg_type": "Font SVG",
+      "description": "FontAwesome SVG font file",
+      "total_icons": 707,
+      "sample_icons": [
+        ".notdef",
+        ".null",
+        "nonmarkingreturn",
+        "space",
+        "dieresis",
+        "copyright",
+        "registered",
+        "acute",
+        "AE",
+        "Oslash"
+      ],
+      "library": "FontAwesome"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+2025-09-05 12:49:04,013 - INFO - ✅ Chrome WebDriver initialized for SVG scraping
+2025-09-05 12:49:04,029 - INFO - 🎨 SVG Scraper initialized
+2025-09-05 12:49:04,035 - INFO - 🔧 Method: Selenium WebDriver
+2025-09-05 12:49:04,042 - INFO - 📁 SVG Output: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/svg_download/svg_files
+2025-09-05 12:49:04,043 - INFO - 🎨 Starting SVG scanning of https://admin.pixelstrap.net/mofi/template
+2025-09-05 12:49:04,047 - INFO - 🎯 Target: Find and download ALL .svg files
+2025-09-05 12:49:04,050 - INFO - 🌐 [Selenium] Scanning: https://admin.pixelstrap.net/mofi/template/
+2025-09-05 12:49:19,585 - INFO - 📄 Saved page reference: svg_download/html_pages/mofi_template.html
+2025-09-05 12:49:19,586 - INFO - 🔍 Extracting SVG references from https://admin.pixelstrap.net/mofi/template/
+2025-09-05 12:49:20,013 - INFO - 📋 SVG Report saved: svg_download/svg_scraping_report.json
+2025-09-05 12:49:20,019 - INFO - 📝 SVG List saved: svg_download/svg_files_list.txt
+2025-09-05 12:49:20,023 - INFO - 
+======================================================================
+2025-09-05 12:49:20,027 - INFO - 🎨 SVG SCRAPING COMPLETED!
+2025-09-05 12:49:20,030 - INFO - ======================================================================
+2025-09-05 12:49:20,034 - INFO - 🔧 Method: Selenium WebDriver
+2025-09-05 12:49:20,037 - INFO - 📄 Pages Scanned: 1
+2025-09-05 12:49:20,039 - INFO - 🎨 SVG Files Found: 0
+2025-09-05 12:49:20,042 - INFO - 📥 SVG Files Downloaded: 0
+2025-09-05 12:49:20,045 - INFO - 💾 Total SVG Size: 0 bytes (0.00 MB)
+2025-09-05 12:49:20,049 - INFO - ❌ Errors: 0
+2025-09-05 12:49:20,049 - INFO - 📁 SVG Files Location: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/svg_download/svg_files
+2025-09-05 12:49:20,056 - INFO - 📄 HTML References: /home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/svg_download/html_pages
+2025-09-05 12:49:20,056 - INFO - ======================================================================
+2025-09-05 12:49:20,056 - INFO - ⚠️  No SVG files found. Check the target website.

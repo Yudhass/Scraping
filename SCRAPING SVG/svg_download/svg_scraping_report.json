@@ -1,0 +1,25 @@
+{
+  "scan_completed": "2025-09-05 12:49:20",
+  "base_url": "https://admin.pixelstrap.net/mofi/template",
+  "method_used": "Selenium WebDriver",
+  "statistics": {
+    "pages_scanned": 1,
+    "svg_files_found": 0,
+    "svg_files_downloaded": 0,
+    "svg_total_size": 0,
+    "errors": 0,
+    "method_used": "Selenium WebDriver"
+  },
+  "pages_scanned": [
+    "https://admin.pixelstrap.net/mofi/template/"
+  ],
+  "svg_urls_found": [],
+  "downloaded_svgs": [],
+  "failed_urls": [],
+  "svg_files_info": {
+    "total_count": 0,
+    "total_size_bytes": 0,
+    "total_size_mb": 0.0,
+    "download_location": "/home/yudhas/Dokumen/GIT_DESKTOP/SCRAPING SVG/svg_download/svg_files"
+  }
+}

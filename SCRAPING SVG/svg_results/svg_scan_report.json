@@ -1,0 +1,15 @@
+{
+  "scan_completed": "2025-09-05 12:49:58",
+  "base_url": "https://admin.pixelstrap.net/mofi/template",
+  "pages_scanned": [
+    "https://admin.pixelstrap.net/mofi/template/index.html"
+  ],
+  "svg_urls_found": [],
+  "downloaded_svgs": [],
+  "summary": {
+    "pages_count": 1,
+    "svgs_found": 0,
+    "svgs_downloaded": 0,
+    "total_size_bytes": 0
+  }
+}

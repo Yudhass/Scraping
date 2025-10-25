@@ -1,0 +1,3 @@
+SVG Icon Sprite Analysis
+File: svg_complete/icon-sprite.svg
+Total Icons: 165

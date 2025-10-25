@@ -1,0 +1,68 @@
+{
+  "download_completed": "2025-09-05 13:02:12",
+  "base_url": "https://admin.pixelstrap.net/mofi",
+  "discovery_stats": {
+    "pages_scanned": 12,
+    "directories_checked": 14,
+    "css_files_scanned": 6,
+    "svg_urls_found": 3
+  },
+  "download_results": {
+    "successful_downloads": 2,
+    "failed_downloads": 1,
+    "total_size_bytes": 768009
+  },
+  "all_svg_urls_found": [
+    "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg",
+    "https://admin.pixelstrap.net/mofi/assets/fonts/font-awesome/fontawesome-webfont.svg?v=4.7.0",
+    "https://admin.pixelstrap.net/mofi/assets/images/switch/square-gray.png);}.default-square .form-switch .form-check-input:checked {  background-image: url(../images/switch/square.svg);}/**=====================    2.28 Switch CSS Ends==========================**/**=====================  2.29 Tab CSS Start==========================**/.nav-pills .nav-link.active,.nav-pills .show > .nav-link {  background-color: var(--theme-default);}.main-vertical-tab .nav .nav-link {  display: -webkit-box;  display: -ms-flexbox;  display: flex;  -webkit-box-align: center;      -ms-flex-align: center;          align-items: center;  gap: 8px;}.nav i {  margin-right: 10px;}.nav-right {  -webkit-box-pack: end;      -ms-flex-pack: end;          justify-content: flex-end;}.nav-theme .nav-link,.nav-pills.nav-theme .nav-link {  color: var(--theme-default);}.nav-theme .nav-link.active,.nav-theme .show > .nav-link,.nav-pills.nav-theme .nav-link.active,.nav-pills.nav-theme .show > .nav-link {  background-color: var(--theme-default);  color: "
+  ],
+  "downloaded_svgs": [
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "size_kb": 316.04,
+      "content_type": "image/svg+xml",
+      "symbols": 167,
+      "paths": 679,
+      "groups": 56,
+      "circles": 36,
+      "rectangles": 60,
+      "downloaded_at": "2025-09-05 13:02:12"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/fonts/font-awesome/fontawesome-webfont.svg?v=4.7.0",
+      "filename": "fontawesome-webfont.svg",
+      "size_bytes": 444379,
+      "size_kb": 433.96,
+      "content_type": "image/svg+xml",
+      "symbols": 0,
+      "paths": 0,
+      "groups": 0,
+      "circles": 0,
+      "rectangles": 0,
+      "downloaded_at": "2025-09-05 13:02:12"
+    }
+  ],
+  "failed_downloads": [
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/images/switch/square-gray.png);}.default-square .form-switch .form-check-input:checked {  background-image: url(../images/switch/square.svg);}/**=====================    2.28 Switch CSS Ends==========================**/**=====================  2.29 Tab CSS Start==========================**/.nav-pills .nav-link.active,.nav-pills .show > .nav-link {  background-color: var(--theme-default);}.main-vertical-tab .nav .nav-link {  display: -webkit-box;  display: -ms-flexbox;  display: flex;  -webkit-box-align: center;      -ms-flex-align: center;          align-items: center;  gap: 8px;}.nav i {  margin-right: 10px;}.nav-right {  -webkit-box-pack: end;      -ms-flex-pack: end;          justify-content: flex-end;}.nav-theme .nav-link,.nav-pills.nav-theme .nav-link {  color: var(--theme-default);}.nav-theme .nav-link.active,.nav-theme .show > .nav-link,.nav-pills.nav-theme .nav-link.active,.nav-pills.nav-theme .show > .nav-link {  background-color: var(--theme-default);  color: ",
+      "error": "404 Client Error: Not Found for url: https://admin.pixelstrap.net/mofi/assets/images/switch/square-gray.png);%7D.default-square%20.form-switch%20.form-check-input:checked%20%7B%20%20background-image:%20url(../images/switch/square.svg);%7D/**=====================%20%20%20%202.28%20Switch%20CSS%20Ends==========================**/**=====================%20%202.29%20Tab%20CSS%20Start==========================**/.nav-pills%20.nav-link.active,.nav-pills%20.show%20%3E%20.nav-link%20%7B%20%20background-color:%20var(--theme-default);%7D.main-vertical-tab%20.nav%20.nav-link%20%7B%20%20display:%20-webkit-box;%20%20display:%20-ms-flexbox;%20%20display:%20flex;%20%20-webkit-box-align:%20center;%20%20%20%20%20%20-ms-flex-align:%20center;%20%20%20%20%20%20%20%20%20%20align-items:%20center;%20%20gap:%208px;%7D.nav%20i%20%7B%20%20margin-right:%2010px;%7D.nav-right%20%7B%20%20-webkit-box-pack:%20end;%20%20%20%20%20%20-ms-flex-pack:%20end;%20%20%20%20%20%20%20%20%20%20justify-content:%20flex-end;%7D.nav-theme%20.nav-link,.nav-pills.nav-theme%20.nav-link%20%7B%20%20color:%20var(--theme-default);%7D.nav-theme%20.nav-link.active,.nav-theme%20.show%20%3E%20.nav-link,.nav-pills.nav-theme%20.nav-link.active,.nav-pills.nav-theme%20.show%20%3E%20.nav-link%20%7B%20%20background-color:%20var(--theme-default);%20%20color:%20"
+    }
+  ],
+  "visited_pages": [
+    "https://admin.pixelstrap.net/mofi/template/general-widget.html",
+    "https://admin.pixelstrap.net/mofi/template/login-sa-validation.html",
+    "https://admin.pixelstrap.net/mofi/template/datatable-advance.html",
+    "https://admin.pixelstrap.net/mofi/template/login-bs-tt-validation.html",
+    "https://admin.pixelstrap.net/mofi/template/dropzone.html",
+    "https://admin.pixelstrap.net/mofi/template/",
+    "https://admin.pixelstrap.net/mofi/template/cart.html",
+    "https://admin.pixelstrap.net/mofi/template/two-factor.html",
+    "https://admin.pixelstrap.net/mofi/template/form-wizard.html",
+    "https://admin.pixelstrap.net/mofi/template/index.html",
+    "https://admin.pixelstrap.net/mofi/template/form-wizard-two.html",
+    "https://admin.pixelstrap.net/mofi/"
+  ]
+}

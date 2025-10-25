@@ -1,0 +1,630 @@
+{
+  "hunt_completed": "2025-09-05 12:52:15",
+  "svgs_found": 89,
+  "total_size_bytes": 28803070,
+  "svg_files": [
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:46"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-file",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:53"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-landing-page",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:54"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#footer-heart",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:54"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-others",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:54"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-bookmark",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:54"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-form",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:54"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-button",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:54"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-project",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:55"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-widget",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:55"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-sample-page",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:55"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-task",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:55"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-faq",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:55"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#header-bookmark",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:56"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-editors",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:56"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-knowledgebase",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:56"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-landing-page",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:56"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-support-tickets",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:56"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-social",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:57"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-gallery",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:57"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-email",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:57"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-search",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:57"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-ecommerce",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:58"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-layout",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:58"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-gallery",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:58"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-email",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:59"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-to-do",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:59"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-bookmark",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:59"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-to-do",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:59"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-widget",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:51:59"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-maps",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:00"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-starter-kit",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:00"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-bonus-kit",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:00"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-job-search",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:00"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-home",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:01"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-home",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:01"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-animation",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:01"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-blog",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:02"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#notification",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:02"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-blog",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:02"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-bonus-kit",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:02"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-ecommerce",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:02"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-starter-kit",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:03"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-internationalization",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:03"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-job-search",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:03"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-icons",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:03"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-task",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:04"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-user",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:04"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-board",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:05"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-social",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:05"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#toggle-icon",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:06"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-contact",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:06"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#full-screen",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:07"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-ui-kits",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:07"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#moon",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:07"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-faq",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:08"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-project",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:08"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-form",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:08"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-user",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:08"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-maps",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:09"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-learning",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:09"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-learning",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:09"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-chat",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:09"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#header-message",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:09"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-calender",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:10"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#search",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:10"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-button",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:10"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-icons",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:10"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-ui-kits",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:10"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-others",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:11"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-table",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:11"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-chat",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:11"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-editors",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:11"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-layout",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:11"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-charts",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:12"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-contact",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:12"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-sample-page",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:12"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-table",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:12"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-animation",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:12"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-toggle-icon",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:13"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-search",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:13"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-charts",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:13"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#user-visitor",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:13"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-knowledgebase",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:13"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-calendar",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:14"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#fill-internationalization",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:14"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-board",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:14"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-file",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:14"
+    },
+    {
+      "url": "https://admin.pixelstrap.net/mofi/assets/svg/icon-sprite.svg#stroke-support-tickets",
+      "filename": "icon-sprite.svg",
+      "size_bytes": 323630,
+      "content_type": "image/svg+xml",
+      "downloaded_at": "2025-09-05 12:52:14"
+    }
+  ]
+}
