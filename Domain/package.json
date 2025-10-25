@@ -1,0 +1,14 @@
+{
+  "name": "scrap-arenhost",
+  "version": "1.0.0",
+  "description": "Domain availability scraper for arenhost.id",
+  "main": "scrap_arent.js",
+  "scripts": {
+    "start": "node scrap_arent.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
